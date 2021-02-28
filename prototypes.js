@@ -27,6 +27,7 @@ GameObject.prototype.destroy = function () {
 
 
 
+
 /*
   === CharacterStats ===
   * healthPoints

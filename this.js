@@ -33,7 +33,6 @@ const anObject = {
     //RETURNS 'a property' since `this` points back to anObject 
 
 
-    
 // Principle 3
 
 // code example for New Binding
